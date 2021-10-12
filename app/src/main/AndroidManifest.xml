@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.github.rostSmartApps.BrojacPunti">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Upute"></activity>
+        <activity android:name=".Credits" />
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-4512079882626722~2481496090" />
+
+        <activity
+            android:name=".Briskula_package.Briskula_start"
+            android:screenOrientation="portrait"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".Briskula_package.Briskula_createtim"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.CustomTheme"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".Briskula_package.Briskula"
+            android:screenOrientation="portrait"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".Treseta_package.Treseta_start"
+            android:screenOrientation="portrait"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".Treseta_package.Treseta_createtim"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.CustomTheme"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".Treseta_package.Treseta"
+            android:screenOrientation="portrait"
+            tools:ignore="LockedOrientationActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait"
+            tools:ignore="LockedOrientationActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

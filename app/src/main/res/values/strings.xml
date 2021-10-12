@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Brojač punti (Briškula/Trešeta)</string>
+    <string name="ime">Brojač punti \n Briškula/Trešeta</string>
+    <string name="new_page">New Page</string>
+    <string name="natrag">Natrag</string>
+    <string name="dodaj_tim">Dodaj tim</string>
+    <string name="ime_tima">Ime Tima:</string>
+    <string name="potvrdi">Potvrdi</string>
+    <string name="treseta">Trešeta</string>
+    <string name="zapocni">Započni</string>
+    <string name="broj_bodova">Broj bodova: 41</string>
+    <string name="unesi_bodove">Unesi bodove:</string>
+    <string name="tim1">TIM1</string>
+    <string name="tim3">TIM3</string>
+    <string name="tim4">TIM4</string>
+    <string name="tim2">TIM2</string>
+    <string name="zavrsi">Završi</string>
+    <string name="background">background</string>
+    <string name="briskula">Briškula</string>
+    <string name="broj_bodova_4">Broj bodova: 4</string>
+    <string name="klikni_na_pobjednika">Klikni na pobjednika!</string>
+    <string name="undo">Poništi</string>
+    <string name="button">Credits</string>
+    <string name="akuza3">+3</string>
+    <string name="akuza4">+4</string>
+    <string name="credits">Credits</string>
+    <string name="upute">Upute</string>
+    <string name="created_by">Created by:</string>
+    <string name="rostsmartapps">rostSmartApps</string>
+    <string name="_0">0</string>
+
+</resources>
